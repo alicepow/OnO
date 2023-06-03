@@ -13,6 +13,18 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 
 <div style="text-align:center;">test 2</div>
 
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good <span class="sb">`oreos`</span>      | hmm   |
+| ok           | good <span class="sb">`zoute`</span> drop | yumm  |
+
+||     |
+|--------------------------------------------------------------|-----|
+|Armored Vest (+1 Armor)   |$1000   |
+|Amulet from the old country (+1 Stability)   |$1000   |
+|Gas Mask (protects against airborne toxins)    |$100   |
+|Mask (protects your identity)   |$20   |
 
 <table>
  <tr>
