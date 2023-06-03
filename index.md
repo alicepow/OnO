@@ -2,49 +2,19 @@
 title: Home
 layout: home
 ---
-Test {: .float-left }
 
-This paragraph will have a margin bottom of 1rem/16px at large screens.
-{: .mb-lg-4 }
-
-This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
-{: .px-6 }
-
-* boop
- * bop
-
-<div style="text-align:center;">test 2</div>
-
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good <span class="sb">`oreos`</span>      | hmm   |
-| ok           | good <span class="sb">`zoute`</span> drop | yumm  |
-
-|:-------------|:------------------|:------|
-|* | good  | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good <span class="sb">`oreos`</span>      | hmm   |
-| ok           | good <span class="sb">`zoute`</span> drop | yumm  |
-
-||     |
-|--------------------------------------------------------------|-----|
-|Armored Vest (+1 Armor)   |$1000   |
-|Amulet from the old country (+1 Stability)   |$1000   |
-|Gas Mask (protects against airborne toxins)    |$100   |
-|Mask (protects your identity)   |$20   |
 <table>
  <tr>
  	<th style="text-align: left"><li>Adderling (humanoid snakes)</li><li>Monitorian (humanoid with an old t.v./computer monitor for a head)</li><li>Fiendling (humanoid half-demons)</li><li>Equiling (humanoid horse)</li><li>Featherfolk (humanoid birds)</li><li>MotoBots(humanoid robots that can take the shape of a car)</li></th>
- 	<th><li>Felinian (humanoid cat)</li><li>Cubfolk (humanoid bear)</li><li>Slimekin</li><li>Kobold</li><li>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)</li><li>Mothkin</li></th>
+ 	<th style="text-align: left"><li>Felinian (humanoid cat)</li><li>Cubfolk (humanoid bear)</li><li>Slimekin</li><li>Kobold</li><li>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)</li><li>Mothkin</li></th>
  </tr>
  <tr>
- 	<th><li>Mannekin (living mannequins)</li><li>Blockling (humanoids made of cubes)</li><li>Human (humanoid humans)</li><li>Mobioids (humanoid hedgehogs, ekidnas, 2-tailed foxes, etc.)</li><li>Spy-Derm En (Humanoids with arachnid powers)</li><li>Toonfolk (cartoon character, based on Yunisverse’s ‘Toonkind’)</li></th>
- 	<th><li>Industrial Construct (Living machinery)</li><li>Man-Spider (Humanoid spider)</li><li>Wormling (humanoid worms)</li><li>Roswellian (humanoid gray aliens)</li><li>Wheelies (humanoids with interlocking wheels covered in eyes for a head, always wearing roller shoes)</li><li>Fomorian (goat-headed humanoid)</li></th>
+ 	<th style="text-align: left"><li>Mannekin (living mannequins)</li><li>Blockling (humanoids made of cubes)</li><li>Human (humanoid humans)</li><li>Mobioids (humanoid hedgehogs, ekidnas, 2-tailed foxes, etc.)</li><li>Spy-Derm En (Humanoids with arachnid powers)</li><li>Toonfolk (cartoon character, based on Yunisverse’s ‘Toonkind’)</li></th>
+ 	<th style="text-align: left"><li>Industrial Construct (Living machinery)</li><li>Man-Spider (Humanoid spider)</li><li>Wormling (humanoid worms)</li><li>Roswellian (humanoid gray aliens)</li><li>Wheelies (humanoids with interlocking wheels covered in eyes for a head, always wearing roller shoes)</li><li>Fomorian (goat-headed humanoid)</li></th>
  </tr>
  <tr>
- 	<th><li>Skeleton (humanoid skeleton)</li><li>Foxfolk</li><li>Cloudling</li><li>Canifolk (humanoid dog/wolf)</li><li>Moppet (felt puppet, based on Chris McDowall’s ‘Mockeries’)</li><li>Ungeziefer (insectoid with thick carapace)</li></th>
- 	<th><li>Leshy</li><li>Duckfolk</li><li>Cephalopoid (sometimes-humanoid cephalods)</li><li>Frogling</li><li>Wyrmling (humanoid dragons)</li><li>Nymph* (humanoid with elemental affinity)</li></th>
+ 	<th style="text-align: left"><li>Skeleton (humanoid skeleton)</li><li>Foxfolk</li><li>Cloudling</li><li>Canifolk (humanoid dog/wolf)</li><li>Moppet (felt puppet, based on Chris McDowall’s ‘Mockeries’)</li><li>Ungeziefer (insectoid with thick carapace)</li></th>
+ 	<th style="text-align: left"><li>Leshy</li><li>Duckfolk</li><li>Cephalopoid (sometimes-humanoid cephalods)</li><li>Frogling</li><li>Wyrmling (humanoid dragons)</li><li>Nymph* (humanoid with elemental affinity)</li></th>
  </tr>
 </table>
 
