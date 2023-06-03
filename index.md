@@ -14,7 +14,7 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 <div style="text-align:center;">test 2</div>
 
 
-<table style=“text-align: left; text-indent: -36px; padding-left: 36px;”>
+<table>
  <tr>
  	<th>Adderling (humanoid snakes)<br>Monitorian (humanoid with an old t.v./computer monitor for a head)<br>Fiendling (humanoid half-demons)<br>Equiling (humanoid horse)<br>Featherfolk (humanoid birds)<br>MotoBots(humanoid robots that can take the shape of a car)</th>
  	<th>Felinian (humanoid cat)<br>Cubfolk (humanoid bear)<br>Slimekin<br>Kobold<br>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)<br>Mothkin</th>
