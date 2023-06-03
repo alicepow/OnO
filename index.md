@@ -13,6 +13,24 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 
 <div style="text-align:center;">test 2</div>
 
+
+<table style=“text-align: left; text-indent: -36px; padding-left: 36px;”>
+ <tr>
+ 	<th>Adderling (humanoid snakes)<br>Monitorian (humanoid with an old t.v./computer monitor for a head)<br>Fiendling (humanoid half-demons)<br>Equiling (humanoid horse)<br>Featherfolk (humanoid birds)<br>MotoBots(humanoid robots that can take the shape of a car)</th>
+ 	<th>Felinian (humanoid cat)<br>Cubfolk (humanoid bear)<br>Slimekin<br>Kobold<br>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)<br>Mothkin</th>
+ </tr>
+ <tr>
+ 	<th>Mannekin (living mannequins)<br>Blockling (humanoids made of cubes)<br>Human (humanoid humans)<br>Mobioids (humanoid hedgehogs, ekidnas, 2-tailed foxes, etc.)<br>Spy-Derm En (Humanoids with arachnid powers)<br>Toonfolk (cartoon character, based on Yunisverse’s ‘Toonkind’)</th>
+ 	<th>Industrial Construct (Living machinery)<br>Man-Spider (Humanoid spider)<br>Wormling (humanoid worms)<br>Roswellian (humanoid gray aliens)<br>Wheelies (humanoids with interlocking wheels covered in eyes for a head, always wearing roller shoes)<br>Fomorian (goat-headed humanoid)</th>
+ </tr>
+ <tr>
+ 	<th>Skeleton (humanoid skeleton)<br>Foxfolk<br>Cloudling<br>Canifolk (humanoid dog/wolf)<br>Moppet (felt puppet, based on Chris McDowall’s ‘Mockeries’)<br>Ungeziefer (insectoid with thick carapace)</th>
+ 	<th>Leshy<br>Duckfolk<br>Cephalopoid (sometimes-humanoid cephalods)<br>Frogling<br>Wyrmling (humanoid dragons)<br>Nymph* (humanoid with elemental affinity)</th>
+ </tr>
+</table>
+
+
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
