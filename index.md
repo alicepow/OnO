@@ -19,6 +19,12 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 | ok           | good <span class="sb">`oreos`</span>      | hmm   |
 | ok           | good <span class="sb">`zoute`</span> drop | yumm  |
 
+|:-------------|:------------------|:------|
+| Adderling (humanoid snakes)<br>Monitorian (humanoid with an old t.v./computer monitor for a head)<br>Fiendling (humanoid half-demons)<br>Equiling (humanoid horse)<br>Featherfolk (humanoid birds)<br>MotoBots(humanoid robots that can take the shape of a car) | good Felinian (humanoid cat)<br>Cubfolk (humanoid bear)<br>Slimekin<br>Kobold<br>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)<br>Mothkin | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good <span class="sb">`oreos`</span>      | hmm   |
+| ok           | good <span class="sb">`zoute`</span> drop | yumm  |
+
 ||     |
 |--------------------------------------------------------------|-----|
 |Armored Vest (+1 Armor)   |$1000   |
@@ -28,8 +34,8 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 
 <table>
  <tr>
- 	<th>Adderling (humanoid snakes)<br>Monitorian (humanoid with an old t.v./computer monitor for a head)<br>Fiendling (humanoid half-demons)<br>Equiling (humanoid horse)<br>Featherfolk (humanoid birds)<br>MotoBots(humanoid robots that can take the shape of a car)</th>
- 	<th>Felinian (humanoid cat)<br>Cubfolk (humanoid bear)<br>Slimekin<br>Kobold<br>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)<br>Mothkin</th>
+ 	<th></th>
+ 	<th></th>
  </tr>
  <tr>
  	<th>Mannekin (living mannequins)<br>Blockling (humanoids made of cubes)<br>Human (humanoid humans)<br>Mobioids (humanoid hedgehogs, ekidnas, 2-tailed foxes, etc.)<br>Spy-Derm En (Humanoids with arachnid powers)<br>Toonfolk (cartoon character, based on Yunisverse’s ‘Toonkind’)</th>
