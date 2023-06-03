@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 permalink: /
 ---
-# Ouroboros and Ouroboros (OnO)
+# **Ouroboros and Ouroboros (OnO)**
 
 <p>Ouroboros and Ouroboros (OnO) is a character-driven OSR ttrpg. Its unique reincarnation mechanic makes death a chaotic and exciting mix up without detracting from the cost of failure.</p>
 
