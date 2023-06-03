@@ -35,7 +35,7 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
 |Mask (protects your identity)   |$20   |
 <table>
  <tr>
- 	<th><li>Adderling (humanoid snakes)</li><li>* Monitorian (humanoid with an old t.v./computer monitor for a head)</li><li>Fiendling (humanoid half-demons)</li><li>Equiling (humanoid horse)</li><li>Featherfolk (humanoid birds)</li><li>MotoBots(humanoid robots that can take the shape of a car)</li></th>
+ 	<th style="text-align: left"><li>Adderling (humanoid snakes)</li><li>Monitorian (humanoid with an old t.v./computer monitor for a head)</li><li>Fiendling (humanoid half-demons)</li><li>Equiling (humanoid horse)</li><li>Featherfolk (humanoid birds)</li><li>MotoBots(humanoid robots that can take the shape of a car)</li></th>
  	<th><li>Felinian (humanoid cat)</li><li>Cubfolk (humanoid bear)</li><li>Slimekin</li><li>Kobold</li><li>TV-tummy (humanoid with an antenna on their head and a screen on their tummy)</li><li>Mothkin</li></th>
  </tr>
  <tr>
@@ -47,7 +47,6 @@ This paragraph will have 2rem/32px of padding on the right and left at all scree
  	<th><li>Leshy</li><li>Duckfolk</li><li>Cephalopoid (sometimes-humanoid cephalods)</li><li>Frogling</li><li>Wyrmling (humanoid dragons)</li><li>Nymph* (humanoid with elemental affinity)</li></th>
  </tr>
 </table>
-{: .float-left }
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
