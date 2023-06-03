@@ -4,6 +4,13 @@ layout: home
 ---
 Test {: .float-left }
 
+This paragraph will have a margin bottom of 1rem/16px at large screens.
+{: .mb-lg-4 }
+
+This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
+{: .px-6 }
+
+
 <div style="text-align:center;">test 2</div>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
