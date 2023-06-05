@@ -4,8 +4,6 @@ layout: home
 nav_order: 1
 permalink: /
 ---
-<ol start="1">boop</ol>
-<ol>beep</ol>
 
 # **Ouroboros and Ouroboros (OnO)**
 
