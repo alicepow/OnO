@@ -633,6 +633,7 @@ Unless noted, all Hirelings have: 1d6 HP and Ability Score 10.
 		<th>Pistol, expertise in a specific area</th>
 </table>
 
+
 Option: Rather than set rates, Hirelings can be priced at a share of whatever treasure the party obtains. However, this probably requires the Hireling be convinced of the possibility of treasure in the first place and more seasoned Hirelings may expect an advance before venturing with the PCs.
 
 ## Equipment
