@@ -621,21 +621,24 @@ Unless noted, all Hirelings have: 1d6 HP and Ability Score 10.
 		<th>1¢</th>
 		<th>STR 2d6</th>
 		<th>lantern, club</th>
+	</tr>
 	<tr>
 		<th>Mercenary</th>
 		<th>5¢</th>
 		<th>2d6 HP</th>
 		<th>Musket, Sword</th>
+	</tr>
 	<tr>
 		<th>Expert</th>
 		<th>10¢</th>
 		<th>N/A</th>
 		<th>Pistol, expertise in a specific area</th>
+	</tr>
 </table>
 
-<p>Option: Rather than set rates, Hirelings can be priced at a share of whatever treasure the party obtains. However, this probably requires the Hireling be convinced of the possibility of treasure in the first place and more seasoned Hirelings may expect an advance before venturing with the PCs.</p>
+Option: Rather than set rates, Hirelings can be priced at a share of whatever treasure the party obtains. However, this probably requires the Hireling be convinced of the possibility of treasure in the first place and more seasoned Hirelings may expect an advance before venturing with the PCs.
 
-test text
+boop1
 
 ## Equipment
 Mostly don't worry about it but Companions and Hirelings can both use this table for item slots:
