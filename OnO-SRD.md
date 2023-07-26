@@ -717,8 +717,8 @@ Additionally, some enemies will have special abilities or effects that are trigg
 		<th>Defense</th>
 		<th>On a Failed Save</th>
 		<th>Ability reduced to 0</th>
-	<tr>
 	</tr>
+	<tr>
 		<th>Physical</th>
 		<th>STR</th>
 		<th>Armor</th>
@@ -731,13 +731,14 @@ Additionally, some enemies will have special abilities or effects that are trigg
 		<th>Balance</th>
 		<th>Immobilized</th>
 		<th>Paralyzed</th>
-	<tr>
 	</tr>
+	<tr>
 		<th>Stress</th>
 		<th>WIL</th>
 		<th>Calm</th>
 		<th>Roll for Curse</th>
 		<th>Incoherent</th>
+	</tr>
 </table>
 
 ### Curse Table
